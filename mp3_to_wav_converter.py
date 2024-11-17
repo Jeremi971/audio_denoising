@@ -1,5 +1,5 @@
 import os
-from pydub import AudioSegment
+from pydub import AudioSegment # type: ignore
 
 def convert_mp3_to_wav(mp3_path, wav_path):
     """Convertit un fichier MP3 en WAV."""
