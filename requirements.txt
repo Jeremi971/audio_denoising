@@ -3,3 +3,6 @@ numpy
 soundfile
 matplotlib
 pydub
+torch
+torchaudio
+demucs
