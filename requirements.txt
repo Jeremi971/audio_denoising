@@ -6,3 +6,5 @@ pydub
 torch
 torchaudio
 demucs
+scipy
+scikit-learn
